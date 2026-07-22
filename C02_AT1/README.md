@@ -50,6 +50,6 @@ The SecureVote platform is recommended to use a cloud-native architecture with F
 
 **Assessment:** CO2 AT1 – Capstone Infrastructure Sizing
 
-**Student:** *Your Name*
+**Student:** *VISWANATH SAI SANDEEP*
 
-**Register Number:** *Your Register Number*
+**Register Number:** *192324029*
